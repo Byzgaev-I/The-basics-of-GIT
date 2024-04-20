@@ -31,4 +31,30 @@ GitLab https://gitlab.com/Byzgaev-I/devops-netology-gitlab/-/tags
 ![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/4GitLab.png)
 
 
+
 ![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/5.png)
+
+### Задание 3. Ветки 
+
+Давайте посмотрим, как будет выглядеть история коммитов при создании веток.  
+Переключитесь обратно на ветку main, которая должна быть связана с веткой main репозитория на github.  
+Посмотрите лог коммитов и найдите хеш коммита с названием Prepare to delete and move, который был создан в пределах предыдущего домашнего задания.  
+Выполните git checkout по хешу найденного коммита.  
+Создайте новую ветку fix базируясь на этом коммите git switch -c fix.  
+Отправьте новую ветку в репозиторий на гитхабе git push -u origin fix.  
+Посмотрите, как визуально выглядит ваша схема коммитов:  https://github.com/Byzgaev-I/devops-netology/network
+
+Учусь работать под разными Git-клиентами, поэтому выслал и скрин с GitKraken. Вроде даже показалась удобной, но я пока в процессе обучения.
+
+Network graph  https://github.com/Byzgaev-I/devops-netology/network
+
+![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/6%20GitHub.png)
+
+![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/7.png)
+
+![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/8.png)
+
+![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/9.png) 
+
+![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/10.png)
+
