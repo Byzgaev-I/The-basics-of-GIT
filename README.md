@@ -12,3 +12,5 @@
 
 ![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/1.png)
 
+![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/2.png)
+
