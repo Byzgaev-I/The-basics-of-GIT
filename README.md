@@ -58,3 +58,23 @@ Network graph  https://github.com/Byzgaev-I/devops-netology/network
 
 ![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/10.png)
 
+### Задание 4. Упрощаем себе жизнь
+
+Попробуем поработь с Git при помощи визуального редактора.
+В используемой IDE PyCharm откройте визуальный редактор работы с Git, находящийся в меню View -> Tool Windows -> Git.
+Измените какой-нибудь файл, и он сразу появится на вкладке Local Changes, отсюда можно выполнить коммит, нажав на кнопку внизу этого диалога.
+Элементы управления для работы с Git будут выглядеть примерно так:
+
+Установил. 
+Учусь. 
+
+![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/11%20PyCharm%20.png)
+
+
+
+
+
+
+
+
+
