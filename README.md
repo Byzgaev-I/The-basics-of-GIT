@@ -26,6 +26,7 @@ GitHub теги https://github.com/Byzgaev-I/devops-netology/tags
 
 ![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/3%20GitHub.png)
 
+GitLab https://gitlab.com/Byzgaev-I/devops-netology-gitlab/-/tags
 
 ![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/4GitLab.png)
 
