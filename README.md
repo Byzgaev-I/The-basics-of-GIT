@@ -21,3 +21,13 @@
 Создайте легковестный тег v0.0 на HEAD коммите и запуште его во все три добавленных на предыдущем этапе upstream.  
 Аналогично создайте аннотированный тег v0.1.  
 Перейдите на страницу просмотра тегов в гитхабе (и в других репозиториях) и посмотрите, чем отличаются созданные теги.  
+
+GitHub теги https://github.com/Byzgaev-I/devops-netology/tags
+
+![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/3%20GitHub.png)
+
+
+![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/4GitLab.png)
+
+
+![image](https://github.com/Byzgaev-I/The-basics-of-GIT/blob/main/5.png)
